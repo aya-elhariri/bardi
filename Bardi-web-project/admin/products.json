@@ -1,0 +1,47 @@
+[
+    {
+        "id": "6953984944ac0",
+        "name": "Blue ancient egyptian notebook",
+        "description": "",
+        "price": 10,
+        "category": "Notebooks",
+        "image": "n1 (1).png",
+        "created_at": "2025-12-30 10:15:53"
+    },
+    {
+        "id": "6953992b85c4e",
+        "name": "blue programmer notebook Cover",
+        "description": "",
+        "price": 5,
+        "category": "cover",
+        "image": "n1 (3).png",
+        "created_at": "2025-12-30 10:19:39"
+    },
+    {
+        "id": "695399a4c7791",
+        "name": "pharos artistic journal",
+        "description": "",
+        "price": 20,
+        "category": "journal",
+        "image": "n1 (4).png",
+        "created_at": "2025-12-30 10:21:40"
+    },
+    {
+        "id": "6953a3423e379",
+        "name": "yellow notebook",
+        "description": "",
+        "price": 5,
+        "category": "notebook",
+        "image": "n1 (5).png",
+        "created_at": "2025-12-30 11:02:42"
+    },
+    {
+        "id": "6953a6cdc5c96",
+        "name": "pink notebook",
+        "description": "",
+        "price": 12,
+        "category": "notebook",
+        "image": "n1 (2).png",
+        "created_at": "2025-12-30 11:17:49"
+    }
+]
